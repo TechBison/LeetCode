@@ -21,7 +21,7 @@ void moveZeroes(vector<int>& nums) {
     }
 int main()
 {
-vector<int>n ={1,0,11,0,12};
+vector<int>n ={1,0,11,0,12,13,0,14,0};
 moveZeroes(n);
 for (int i=0;i<n.size();i++)
 {
